@@ -1,0 +1,8 @@
+Restaurant_1 Menu:
+Burger, Pasta, Risotto
+
+Restaurant_2 Menu:
+Burger, Pasta
+
+Restaurant_3 Menu:
+Risotto
